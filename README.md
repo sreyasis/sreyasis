@@ -3,8 +3,8 @@
 Apart from Electrical engineering I did some projects and research on Robotics and control system.
 ### And I am handy in working with 
 <br>
-**💡Python<br>
+<h1>💡Python<br>
 🚀C++<br>
 ♨️ JavaScript<br>
 📷OpenCv library<br>
-🔥 Tensorflow library**<br>
+🔥 Tensorflow library</h1><br>
