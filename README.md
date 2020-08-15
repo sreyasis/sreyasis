@@ -3,8 +3,11 @@
 Apart from Electrical engineering I did some projects and research on Robotics and control system. I do web development for freelancing.
 ### And I am handy in working with 
 
-<h2>💡Python<br>                             <h2>HTML5<br></h2>                        
+<h2>💡Python<br>                                                
 🚀C++<br>                                   
 ♨️ JavaScript<br>
 📷OpenCv library<br>
-🔥 Tensorflow library</h2><br>     
+🔥 Tensorflow library<br>
+   HTML<br>
+   CSS<br>
+   NODE   <br>
