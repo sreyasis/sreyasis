@@ -4,10 +4,11 @@ Apart from Electrical engineering I did some projects and research on Robotics a
 ### And I am handy in working with 
 
 <h2>💡Python<br>                                                
-🚀C++<br>                                   
+🚀 C++<br>                                   
 ♨️ JavaScript<br>
-📷OpenCv library<br>
+📷 OpenCv library<br>
 🔥 Tensorflow library<br>
-   HTML<br>
-   CSS<br>
-   NODE   <br>
+💻 HTML<br>
+📱 CSS<br>
+🔘 NODE  <br>
+🗓️ MongoDB <br></h2>
